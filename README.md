@@ -1,0 +1,2 @@
+- ollama run phi3
+- streamlit run app.py
